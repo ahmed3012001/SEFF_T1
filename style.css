@@ -1,0 +1,30 @@
+html{
+    background-color: lightblue;
+}
+p{
+    border-radius: 50%; 
+    width: 90px;
+    height: 90px;
+    background-color: darkblue;
+}
+u{
+    color: darkmagenta;
+}
+mark{
+    background-color: navajowhite;
+    color: rgb(192, 49, 49);
+}
+ol{
+    color: maroon;
+}
+input{
+    background-color: rgba(203, 243, 243, 0.979);
+}
+button{
+    background-color: navajowhite;
+    color: darkblue;
+    border-radius: 25%;
+    width: 170px;
+    height: 30px;
+    border-style: hidden;
+}
